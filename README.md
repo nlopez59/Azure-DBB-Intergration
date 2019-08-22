@@ -1,2 +1,2 @@
 # Azure-DBB-Intergration
-Testing IDz Azure Piepline Trigger
+Testing IDz Azure Pipeline Trigger
